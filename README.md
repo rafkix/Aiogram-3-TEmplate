@@ -27,7 +27,6 @@ Ushbu loyiha Telegram boti bo'lib, [Aiogram](https://github.com/aiogram/aiogram)
     ```bash
     git clone https://github.com/yourusername/your-bot-project.git
     cd your-bot-project
-    ```
 ```
 
 2. Loyihangizning ildiz papkasida `.env` faylini yaratib, bot tokeni va admin ID-ni qo'shing:
