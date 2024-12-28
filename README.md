@@ -18,7 +18,7 @@ Ushbu loyiha Telegram boti bo'lib, [Aiogram](https://github.com/aiogram/aiogram)
 
   ```bash
   pip install -r requirements.txt
-  ```
+```
 
 ## Sozlash
 
