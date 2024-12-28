@@ -1,23 +1,20 @@
 Mana, `README.md` faylining to'liq nusxasi, uzbek tilida yozilgan:
 
-```markdown
 # Bot Loyihasi
 
 Ushbu loyiha Telegram boti bo'lib, [Aiogram](https://github.com/aiogram/aiogram) kutubxonasi yordamida yozilgan. Bu zamonaviy va samarali Telegram botlarini yaratish uchun ishlatiladi. Botda bir nechta funksiyalar mavjud: admin paneli, foydalanuvchi bilan o'zaro aloqalar, va maxsus filtrlar.
 
 ## Xususiyatlar
 
-- **Admin Paneli:** Administratorlar botni boshqarish va o'zaro aloqada bo'lish uchun komandalar orqali foydalanishi mumkin.
-- **Filtrlar:** Foydalanuvchi adminmi yoki xabar guruhdan/kaneldanmi ekanligini tekshirish uchun maxsus filtrlar.
-- **Bot Komandalari:** Foydalanuvchilar uchun oson aloqada bo'lish uchun maxsus komandalar.
+- <b>Admin Paneli:</b> Administratorlar botni boshqarish va o'zaro aloqada bo'lish uchun komandalar orqali foydalanishi mumkin.
+- <b>Filtrlar:</b> Foydalanuvchi adminmi yoki xabar guruhdan/kaneldanmi ekanligini tekshirish uchun maxsus filtrlar.
+- <b>Bot Komandalari:</b>  Foydalanuvchilar uchun oson aloqada bo'lish uchun maxsus komandalar.
 
 ## Talablar
 
 - Python 3.8 va yuqoriroq versiya
 - Talab qilingan kutubxonalarni o'rnatish uchun quyidagi komandani ishlating:
-```
 
-```markdown
 ## Sozlash
 
 1. Loyihani o'z kompyuteringizga yuklab oling:
