@@ -15,8 +15,9 @@ Ushbu loyiha Telegram boti bo'lib, [Aiogram](https://github.com/aiogram/aiogram)
 
 - Python 3.8 va yuqoriroq versiya
 - Talab qilingan kutubxonalarni o'rnatish uchun quyidagi komandani ishlating:
-    ```
+```
 
+```markdown
 ## Sozlash
 
 1. Loyihani o'z kompyuteringizga yuklab oling:
@@ -53,6 +54,7 @@ Ushbu loyiha Telegram boti bo'lib, [Aiogram](https://github.com/aiogram/aiogram)
 ## Litsenziya
 
 Ushbu loyiha MIT Litsenziyasi asosida litsenziyalangan - batafsil ma'lumotni [LICENSE](LICENSE) faylida topishingiz mumkin.
+
 ```
 
 ### Qanday o'zgartirish mumkin:
