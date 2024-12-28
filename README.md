@@ -15,7 +15,7 @@ Ushbu loyiha Telegram boti bo'lib, [Aiogram](https://github.com/aiogram/aiogram)
 
 - Python 3.8 va yuqoriroq versiya
 - Talab qilingan kutubxonalarni o'rnatish uchun quyidagi komandani ishlating:
-```
+    ```
 
 ## Sozlash
 
